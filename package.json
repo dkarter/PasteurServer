@@ -1,0 +1,14 @@
+{
+  "name": "pasteur-server",
+  "version": "1.0.0",
+  "description": "Server for the Pasteur App using websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dorian Karter",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^0.8.0"
+  }
+}
